@@ -120,3 +120,8 @@ tower owners in order to **earn** fees from the game being played.
   token. Any game may only be played with a single token.
 * There is no game specific token for the game. Towers is a protocol agnostic
   technology provider creating synergies between existing projects.
+* The game is likely to be played in a low transaction fee environment since the
+  game dynamics require continous contributions to the tower treasuries.
+* Game mode shifts are voted on via blind auctions on-chain. Once consensus is
+  reached by paying for it in a "skin in the game" fashion the rules of the game
+  change according to the vote.
