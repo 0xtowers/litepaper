@@ -125,3 +125,5 @@ tower owners in order to **earn** fees from the game being played.
 * Game mode shifts are voted on via blind auctions on-chain. Once consensus is
   reached by paying for it in a "skin in the game" fashion the rules of the game
   change according to the vote.
+* Game and tower treasuries can configure zero address for receiving fees in
+  order to burn supply if they chose to do so.
