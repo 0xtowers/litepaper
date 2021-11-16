@@ -1,6 +1,6 @@
 # litepaper
 
-Strategic vision one-pager, version 31st of August 2021.
+Strategic vision one-pager, version 16st of November 2021.
 
 # Abstract
 
