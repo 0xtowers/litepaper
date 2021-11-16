@@ -69,8 +69,11 @@ ecosystem flourish.
 
 Each game provides different actors with a share of the generated fees of the
 played game. One beneficiary here is the protocol, another is the creator of the
-game and the creators of the towers can provide a beneficiary address each. The
-fee distribution for a game may look like this.
+game and the creators of the towers can provide a beneficiary address each. Note
+that the described design enables the approach of decentralized frontend hosting
+in which entities providing these frontends with different graphic design and
+appeal may capture game or tower fees for game creation. The fee distribution
+for a game may look like this.
 
 * 90% of deposits go to players who win the game
 *  5% of deposits go to the protocol as a management fee
