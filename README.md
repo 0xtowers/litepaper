@@ -75,7 +75,7 @@ fee distribution for a game may look like this.
 * 90% of deposits go to players who win the game
 *  5% of deposits go to the protocol as a management fee
 *  2% of deposits go to the game creator for promoting the game
-*  1% of deposits go to the each tower creator given 3 towers
+*  1% of deposits go to the tower creators given 3 towers
 
 ```
 90 + 5 + 2 + (3 * 1) = 100
